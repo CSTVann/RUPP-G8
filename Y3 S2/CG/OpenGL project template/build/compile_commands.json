@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/sotheavann/Desktop/OpenGL project template/build",
+  "command": "/usr/bin/clang++  -I\"/Users/sotheavann/Desktop/OpenGL project template/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/hello_windows.dir/src/main.cpp.o -c \"/Users/sotheavann/Desktop/OpenGL project template/src/main.cpp\"",
+  "file": "/Users/sotheavann/Desktop/OpenGL project template/src/main.cpp",
+  "output": "CMakeFiles/hello_windows.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/sotheavann/Desktop/OpenGL project template/build",
+  "command": "/usr/bin/clang  -I\"/Users/sotheavann/Desktop/OpenGL project template/dependencies\" -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/hello_windows.dir/src/glad.c.o -c \"/Users/sotheavann/Desktop/OpenGL project template/src/glad.c\"",
+  "file": "/Users/sotheavann/Desktop/OpenGL project template/src/glad.c",
+  "output": "CMakeFiles/hello_windows.dir/src/glad.c.o"
+}
+]

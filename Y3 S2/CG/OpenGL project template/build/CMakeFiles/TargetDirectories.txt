@@ -1,0 +1,3 @@
+/Users/sotheavann/Desktop/OpenGL project template/build/CMakeFiles/hello_windows.dir
+/Users/sotheavann/Desktop/OpenGL project template/build/CMakeFiles/edit_cache.dir
+/Users/sotheavann/Desktop/OpenGL project template/build/CMakeFiles/rebuild_cache.dir
